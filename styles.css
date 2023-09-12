@@ -1,0 +1,72 @@
+.main{
+    background-color: rgba(250, 123, 20, 0.905);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    align-items: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.first{
+    background-color: rgba(250, 20, 20, 0.905);
+}
+
+h3{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+h4{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+.unordered{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    align-items: center;
+}
+
+.ordered{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    align-items: center;
+}
+
+.second{
+    background-color: rgba(20, 54, 250, 0.905);
+}
+
+.third{
+    background-color: rgba(250, 227, 20, 0.905);
+}
+
